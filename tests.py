@@ -23,6 +23,8 @@ def save_keypoints(image, keypoints, filename):
     os.makedirs('results', exist_ok=True)
     cv2.imwrite(filename, vis)
 
+
+qwfoiweofi w;eoifj;ewloqf jw;qefj;lejfw
 # -------------------------------------------------------------------
 # 0️⃣ Load Images
 # -------------------------------------------------------------------
